@@ -3,14 +3,13 @@
         <html>
 
         <body>
-            <h2>It's working on Tomcat server(9.0.75) written by steve</h2>
-            <!-- <hr> -->
+            <h2>It's working on Tomcat server(9.0.65) written by steve</h2>
+            <hr>
             <h1>${msg}</h1>
-            <h1>Hi, there (updated by dowon)</h1>
             <h2>Today is
                 <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" />
             </h2>
-            <h3>Version: 3.0</h3>
+            <h3>Version: 1.1</h3>
         </body>
 
         </html>
